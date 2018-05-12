@@ -1,0 +1,27 @@
+_repo: Ruth-Fielding-Homeward-BoundA-Red-Cross-Worker-s-Ocean-Perils_36748
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Emerson, Alice B.
+    gutenberg_agent_id: '1619'
+    url: http://www.gutenberg.org/2009/agents/1619
+description: ''
+gutenberg_issued: '2011-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36748'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hostages -- Juvenile fiction'
+- !lcsh 'World War, 1914-1918 -- Juvenile fiction'
+- !lcsh 'Airships -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Fielding, Ruth (Fictitious character) -- Juvenile fiction'
+title: Ruth Fielding Homeward Bound; Or, A Red Cross Worker's Ocean Perils
+url: http://www.gutenberg.org/ebooks/36748
